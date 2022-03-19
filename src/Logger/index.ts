@@ -1,0 +1,1 @@
+export { default as makeLogger } from './Logger';
